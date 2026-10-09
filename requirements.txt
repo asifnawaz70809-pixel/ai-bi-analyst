@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-core
+langchain-classic
+langgraph
+chromadb
+pypdf
+openai
+pandas
+openpyxl
+plotly
+sentence-transformers
+python-dotenv

@@ -1,0 +1,9 @@
+.streamlit/secrets.toml
+.env
+__pycache__/
+*.pyc
+.DS_Store
+chroma_db/
+*.pdf
+*.xlsx
+*.csv
